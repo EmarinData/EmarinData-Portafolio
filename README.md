@@ -14,3 +14,9 @@ Actualmente estoy formándome en:
 - Excel avanzado
 - SQL para análisis de datos
 - Python con enfoque en Inteligencia Artificial
+
+## 📂 Estructura del repositorio
+- `Excel_Projects/` → Dashboards, análisis y automatizaciones en Excel.
+- `PowerBI_Projects/` → Proyectos de visualización e informes interactivos.
+- `SQL_Projects/` → Consultas y análisis de bases de datos.
+- `Python_Projects/` → Scripts y modelos con enfoque en IA y análisis de datos.
