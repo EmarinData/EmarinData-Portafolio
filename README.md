@@ -31,7 +31,7 @@ Actualmente estoy formándome en:
 
 ## 🌐 Conecta conmigo
 
-- [💼 LinkedIn](https://www.linkedin.com/in/emilio-jesus-marin-marin-380ab31ab)  
+- [💼 LinkedIn](https://www.linkedin.com/in/emarin-data)  
 - [✉️ Email](mailto:emiliojm1995@gmail.com)  
 - [📂 GitHub](https://github.com/EmarinData)
 
