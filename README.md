@@ -6,7 +6,7 @@ Aquí muestro mis avances, prácticas y proyectos reales utilizando **Excel**, *
 ---
 
 ## 🎯 Sobre mí
-Soy **Emilio Jesús Marín**, analista de datos en formación.  
+Soy **Emilio Jesús Marín Marín**, analista de datos en formación.  
 Mi objetivo es transformar datos en información útil para la toma de decisiones, combinando análisis técnico y una visión práctica del negocio.
 
 Actualmente estoy formándome en:
@@ -14,7 +14,3 @@ Actualmente estoy formándome en:
 - Excel avanzado
 - SQL para análisis de datos
 - Python con enfoque en Inteligencia Artificial
-
----
-
-## 🧩 Estructura del portafolio
