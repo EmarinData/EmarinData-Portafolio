@@ -1,4 +1,4 @@
-![Banner](Banner.png)
+![Banner](Banner1.png)
 
 # 📊 EmarinData Portfolio
 
