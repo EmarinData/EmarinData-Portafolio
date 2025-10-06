@@ -1,4 +1,4 @@
-![banner](https://github.com/EmarinData/EmarinData-Portafolio/blob/main/banner.png)
+![Banner](Banner.png)
 
 # 📊 EmarinData Portfolio
 
