@@ -1,7 +1,7 @@
-#Primer Proyecto de excel
+# Primer Proyecto de excel
 
-Proyecto de análisis de datos en Excel
-Incluye:
+Proyecto de análisis de datos en Excel,
+## Incluye:
 -Limpieza de datos
 -Tablas dinámicas
 -Gráficos
