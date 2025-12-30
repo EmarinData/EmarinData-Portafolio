@@ -1,32 +1,36 @@
-📺 Proyecto: Análisis de Datos con SQL - Netflix DB
-📝 Descripción
-Este repositorio contiene un análisis exhaustivo de una base de datos relacional sobre series de televisión, episodios y actores. El objetivo principal es transformar datos brutos en insights de negocio utilizando consultas SQL avanzadas.
+🎬 Análisis Estratégico del Catálogo de Netflix (SQL)
+📋 Descripción del Proyecto
+Este proyecto consiste en un análisis técnico y estadístico de una base de datos relacional que simula el ecosistema de contenidos de Netflix. A través de 10 consultas SQL complejas, se extraen métricas clave sobre valoraciones, duración de episodios y recurrencia de talento para optimizar la toma de decisiones sobre el catálogo.
 
 🛠️ Stack Tecnológico
 Motor de Base de Datos: MySQL.
 
-Lenguaje: SQL (DQL).
+Lenguaje: SQL (Data Query Language).
 
 Herramientas: MySQL Workbench.
 
-📑 Preguntas de Negocio Resueltas
-El análisis se divide en 10 bloques lógicos que cubren:
+📊 Preguntas de Negocio Resueltas
+El análisis aborda los siguientes pilares estratégicos:
 
-Métricas de Calidad: Uso de funciones de agregación (AVG) y redondeo (ROUND) para determinar la valoración media del contenido.
+Métricas de Calidad (Ratings): Identificación de los episodios mejor valorados y cálculo de la nota media por serie y género utilizando funciones de agregación (AVG) y limpieza de datos (ROUND).
 
-Gestión de Catálogo: Identificación de series con mayor volumen de episodios y segmentación por género.
+Análisis de Talento: Detección de actores con participación en múltiples producciones mediante el uso de subconsultas y filtrado avanzado (HAVING).
 
-Análisis de Talento: Detección de actores recurrentes y su relación con las producciones mediante Subconsultas y Joins múltiples.
+Gestión de Catálogo: Clasificación dinámica de series según su volumen de episodios y análisis de la duración media para entender el compromiso de tiempo del usuario.
 
-Reporting de Récords: Localización de episodios específicos con ratings máximos y duraciones atípicas.
+Reporting de Operaciones: Uso de JOINs múltiples para reconstruir la relación entre series, episodios, actores y personajes.
 
-🗄️ Estructura de Datos
-La base de datos se compone de 4 tablas principales interconectadas:
+🏗️ Modelo de Datos (Diagrama ER)
+Nota: El modelo se basa en 4 tablas principales: Series, Episodios, Actores y Actuaciones (tabla relacional muchos a muchos).
 
-Series: Información de cabecera.
+🚀 Contenido del Repositorio
+analisis_netflix.sql: Script principal con las 10 consultas analíticas.
 
-Episodios: Detalle de capítulos y valoraciones IMDb.
+setup_db.sql: Script de creación y carga de datos (Esquema original de Udemy).
 
-Actores: Maestros de intérpretes.
+diagrama_netflix.png: Visualización de la arquitectura de la base de datos.
 
-Actuaciones: Tabla relacional (muchos a muchos) entre actores y series.
+💡 Conclusiones Destacadas
+Se identificaron los géneros con mayor rating promedio, permitiendo priorizar inversiones en categorías de alto engagement.
+
+El uso de lógica condicional permitió segmentar el catálogo en diferentes formatos (Miniseries vs. Series de larga duración).
