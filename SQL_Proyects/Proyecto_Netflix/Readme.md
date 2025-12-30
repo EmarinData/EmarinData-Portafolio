@@ -27,18 +27,6 @@ El análisis aborda los siguientes pilares estratégicos:
 ### 4. Reporting de Operaciones
 * Uso de `JOINs` múltiples para reconstruir la relación entre series, episodios, actores y personajes.
 
----
-
-## 🏗️ Modelo de Datos (Diagrama ER)
-![Diagrama de Entidad-Relación](./diagrama_netflix.png)  
-*Nota: El modelo se basa en 4 tablas principales: **Series, Episodios, Actores y Actuaciones** (tabla relacional muchos a muchos).*
-
----
-
-## 🚀 Contenido del Repositorio
-* 📄 `analisis_netflix.sql`: Script principal con las 10 consultas analíticas.
-* 📄 `setup_db.sql`: Script de creación y carga de datos (Esquema original de Udemy).
-* 🖼️ `diagrama_netflix.png`: Visualización de la arquitectura de la base de datos.
 
 ---
 
