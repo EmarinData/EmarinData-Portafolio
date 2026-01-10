@@ -16,7 +16,7 @@ Actualmente estoy formándome en:
 - 📈 **Power BI** (Certificación PL-300 en curso)  
 - 💡 **Excel avanzado**  
 - 🧩 **SQL para análisis de datos**  
-- 🤖 **Python con enfoque en Inteligencia Artificial**
+- 🤖 **Python (Pandas,Matplotlib)**
 
 ---
 
@@ -25,7 +25,8 @@ Actualmente estoy formándome en:
 - **Excel_Projects** → Análisis y dashboards creados con Excel.  
 - **PowerBI_Projects** → Informes interactivos con Power BI.  
 - **SQL_Projects** → Consultas y ejercicios de análisis con SQL.  
-- *(Próximamente: proyectos combinando Python y Machine Learning.)*
+- **Python_Projects** → Proyectos de análisis de datos utilizando (Pandas, Numpy, Matplotlib) aplicados a datasets reales
+- *(Próximamente: proyectos avanzados combinando Python y técnicas de análisis más avanzadas.)*
 
 ---
 
